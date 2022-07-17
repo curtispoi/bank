@@ -1,6 +1,6 @@
-# Bad Bank of America
+# Bad Bank
 
-The Bad Bank of America app demonstrates basic front-end React functionality, including:
+The Bad Bank app demonstrates basic front-end React functionality, including:
 * Navigate among different pages using react-router-dom
 * Create Account
 * Login and logout
@@ -31,7 +31,7 @@ This project uses React, Express, and MongoDB.
 A full specification of functionality can be found in the [Requirements](https://curtispoi.github.io/banking/docs/requirements.md) doc. 
 
 ## License
-This project is licensed under the [MIT](https://github.com/jayeclark/banking/blob/main/LICENSE) license.
+This project is licensed under the [MIT](https://github.com/curtispoi/banking/blob/main/LICENSE) license.
 
 ## Deploy on GitHub Pages
 In order to deploy, you must have node installed. Get it [here](https://nodejs.org/). Recommended: use yarn instead of npm for package management. Get yarn [here](https://getyarn.io/).
